@@ -7,29 +7,7 @@
 // Note: In case of multiple occurrences of ceil of x, 
 // return the index of the first occurrence.
 
-// /*
-// Sample Test Cases:
-// Input 1:
-// arr = [1, 2, 8, 10, 11, 12, 19], x = 5
-// Output 1:
-// 2
 
-// Input 2:
-// arr = [1, 2, 8, 10, 11, 12, 19], x = 20
-// Output 2:
-// -1
-
-// Input 3:
-// arr = [1, 1, 2, 8, 10, 11, 12, 19], x = 0
-// Output 3:
-// 0
-
-// Input 4:
-// arr = [1, 1, 2, 8, 10, 11, 12, 19], x = 2
-// Output 4:
-// 2
-
-// */
 
 #include<stdio.h>
 int main(){
